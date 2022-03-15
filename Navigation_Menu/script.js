@@ -31,3 +31,4 @@ nav.addEventListener("mouseup", () =>{
 nav.addEventListener("mouseleave", () =>{
   nav.removeEventListener("mousemove", onDrag);
 });
+
