@@ -24,6 +24,7 @@ function calcIMC() {
       }else if(imc >= 30){
         resultado.innerHTML = '<br/> Seu resultado foi: ' + imc.toFixed(2) + '<br/> Cuidado Obesidade!';
       }
+      
     console.log(peso);
     console.log(altura);
     console.log(imc);
