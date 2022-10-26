@@ -4,3 +4,4 @@
 ### Navigation Menu
 ### Navigation Indicator
 ### Navigation Dark Mode
+### Password Generator
